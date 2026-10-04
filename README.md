@@ -1,4 +1,4 @@
-#c-programming-codes
+# c-programming-codes
 B.Tech CSE 1st year- my c language practice
 
 ## topics covered
