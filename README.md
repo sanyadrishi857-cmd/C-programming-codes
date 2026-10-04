@@ -1,5 +1,10 @@
 #c-programming-codes
-my c programming practice codes-b.tech student
+B.Tech CSE 1st year- my c language practice
 
--even odd using switch case
+## topics covered
+-switch case (even-odd)
+-if-else programs
+-loops(coming soon)
+
+learning from college+ youtube
 
